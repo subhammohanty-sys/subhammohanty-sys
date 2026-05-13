@@ -23,8 +23,8 @@ Beyond building my own projects, **I am eager to dive into the world of Open Sou
 
 ---
 ## 🔗 Connect & Solve
-[![LeetCode](https://img.shields.io/badge/https://leetcode.com/u/QYTOrrRFkz/)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Bonstien)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/QYTOrrRFkz/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Bonstien)
 ---
 
 ## 📚 Currently Learning
