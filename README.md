@@ -16,7 +16,7 @@ Beyond building my own projects, **I am eager to dive into the world of Open Sou
 
 ## 🛠️ Skills & Tools
 
-* **Languages:** Python, Java , Javascript
+* **Languages:** Python, Java , Javascript , HTML , CSS , REACT.js
 * **Databases:** MongoDB
 * **Tools & OS:** Git, GitHub, Linux Fundamentals
 * **Platforms:** LeetCode, Codeforces, Kaggle
@@ -29,7 +29,7 @@ Beyond building my own projects, **I am eager to dive into the world of Open Sou
 
 ## 📚 Currently Learning
 
-* **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js) & JavaScript
+* **Web Development:** MERN Stack (MongoDB, Express.js, Node.js) 
 * **Systems Programming:** C++
 * **Algorithms:** Advanced Data Structures and Problem-Solving
 
