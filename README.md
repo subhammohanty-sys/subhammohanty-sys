@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Subham Mohanty
 
-🎓 **First-Year B.Tech Student**
+🎓 **Second-Year B.Tech Student**
 💻 **Aspiring Software Developer & Cybersecurity Enthusiast**
 📍 **VIT Bhopal University**
 
@@ -16,10 +16,11 @@ Beyond building my own projects, **I am eager to dive into the world of Open Sou
 
 ## 🛠️ Skills & Tools
 
-* **Languages:** Python, Java , Javascript , HTML , CSS , REACT.js
-* **Databases:** MongoDB
-* **Tools & OS:** Git, GitHub, Linux Fundamentals
+* **Languages:** Python, Java , Javascript , HTML , CSS , C++
+* **Databases:** MongoDB , Redis
+* **Tools & OS:** Git, GitHub, Linux Fundamentals , Postman , Visual Studio Code , Docker
 * **Platforms:** LeetCode, Codeforces, Kaggle
+* **Frameworks:** Node.js , React.js ,Express.js
 
 ---
 ## 🔗 Connect & Solve
