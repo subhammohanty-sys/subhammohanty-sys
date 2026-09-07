@@ -1,64 +1,21 @@
-# 👋 Hi, I'm Subham Mohanty
+# 💫 About Me:
+I'm an aspiring developer exploring modern web technologies, building hands-on projects, and sharpening my problem-solving skills every day. Always excited to connect, learn, and build with others.
 
-🎓 **Second-Year B.Tech Student**
-💻 **Aspiring Software Developer & Cybersecurity Enthusiast**
-📍 **VIT Bhopal University**
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shubham-mohanty-654b8b37b) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=subhammohanty-sys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=subhammohanty-sys&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=subhammohanty-sys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I am a passionate engineering student focused on building a strong technical foundation in **Software Engineering**, **AI/ML**, and **Cybersecurity**. I enjoy solving complex problems and developing applications that are both functional and secure.
-
-Beyond building my own projects, **I am eager to dive into the world of Open Source.** I am actively looking for opportunities to contribute to meaningful projects, collaborate with other developers, and help build tools that make a difference in the developer community.
-
----
-
-## 🛠️ Skills & Tools
-
-* **Languages:** Python, Java , Javascript , HTML , CSS , C++
-* **Databases:** MongoDB , Redis
-* **Tools & OS:** Git, GitHub, Linux Fundamentals , Postman , Visual Studio Code , Docker
-* **Platforms:** LeetCode, Codeforces, Kaggle
-* **Frameworks:** Node.js , React.js ,Express.js
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=subhammohanty-sys&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-## 🔗 Connect & Solve
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/QYTOrrRFkz/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Bonstien)
----
+[![](https://komarev.com/ghpvc/?username=subhammohanty-sys&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📚 Currently Learning
-
-* **Web Development:** MERN Stack (MongoDB, Express.js, Node.js) 
-* **Systems Programming:** C++
-* **Algorithms:** Advanced Data Structures and Problem-Solving
-
----
-
-## 📌 Projects
-
-* **Simple Bank Management System**
-  * A backend application designed to handle core banking operations, account management, and transaction logic.
-* **Simple Sentiment Analyzer**
-  * An AI/ML-focused project that processes text data to determine emotional tone and sentiment analysis.
-
----
-
-## 🎯 Goals
-
-* **Open Source:** Make my first meaningful contributions to open-source repositories.
-* **Consistency:** Maintain a daily streak on LeetCode and Codeforces.
-* **Development:** Build and deploy full-stack applications using the MERN stack.
-* **Internships:** Secure technical internships to apply my skills in real-world environments.
-
----
-
-## 📫 Let's Connect
-- **LinkedIn:** www.linkedin.com/in/shubham-mohanty-654b8b37b
-- **Email:** subhammohantygithub@gmail.com
-
----
-
-
-⭐ *Always learning, always growing*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
